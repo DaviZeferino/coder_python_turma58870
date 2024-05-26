@@ -1,0 +1,12 @@
+#Classe retângulo
+class Retangulo:
+    def __init__(self, base, altura):
+        #Atributos
+        self.base   = base
+        self.altura = altura 
+    #método
+    def area(self):
+        return self.base * self.altura 
+    #método
+    def perimetro(self):
+        return self.base + 2 * self.altura
