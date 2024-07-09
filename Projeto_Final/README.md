@@ -18,6 +18,8 @@ sqlite3
 plyer
 requests
 tqdm
+matplotlib 
+seaborn 
 ```
 
 ## ⚙️ Testes
@@ -26,11 +28,12 @@ Para testes, basta executar os comandos em ordem.
 
 ### 🔩 Análise
 
-Disponibilizamos alguns gráficos para estudo.
+Disponibilizamos alguns exemplos de gráficos para estudo.
 
 ```
 Barras
 histograma
+Distirbuição
 
 ```
 
@@ -38,7 +41,7 @@ histograma
 
 * [Base]('https://brasilapi.com.br/api/banks/v1) - Base pública
 * [VScode] - Visual Studio Code - Versão: 1.87
-* [python](Linguagem de programação) - Versão 3.12
+* [python]( Interpretador - Linguagem de programação) - Versão 3.12
 
 ## ✒️ Autor
 
