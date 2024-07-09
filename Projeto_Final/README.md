@@ -22,7 +22,7 @@ tqdm
 
 ## ⚙️ Testes
 
-Para testas basta executar os comandos em ordem.
+Para testes, basta executar os comandos em ordem.
 
 ### 🔩 Análise
 
@@ -46,6 +46,5 @@ histograma
 
 ## 🎁 Expressões de gratidão
 
-* Conte a outras pessoas sobre este projeto 📢;
 * 🍺 Obrigado Adriano pelos ensinamentos;
 [* Um agradecimento publicamente 🫂;](https://github.com/AdrianoReges)
