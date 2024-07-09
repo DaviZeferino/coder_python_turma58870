@@ -47,4 +47,4 @@ histograma
 ## 🎁 Expressões de gratidão
 
 * 🍺 Obrigado Adriano pelos ensinamentos;
-[* Um agradecimento publicamente 🫂;](https://github.com/AdrianoReges)
+[* Prof° Adriano Reges](https://github.com/AdrianoReges)
