@@ -39,7 +39,7 @@ Distirbuição
 
 ## 🛠️ Construído com
 
-* [Base]('https://brasilapi.com.br/api/banks/v1) - Base pública
+* [Bancos]('https://brasilapi.com.br/api/banks/v1) - Base pública
 * [VScode] - Visual Studio Code - Versão: 1.87
 * [python]( Interpretador - Linguagem de programação) - Versão 3.12
 
