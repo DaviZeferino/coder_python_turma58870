@@ -1,7 +1,7 @@
 # 🏛 Bancos
 
-Carregando informações de bancos, taxas e pix de bancos para tratamento, consulta e criação nio banco de dados. 
-Utilizamos uma base pública: ''https://brasilapi.com.br/api/banks/v1'
+Carregando informações cadastrais dos bancos, taxas e pix para tratamento, consulta, tratamento e criação no banco de dados. 
+*Utilizamos informações públicas: 'https://brasilapi.com.br/api/banks/v1'
 
 ## 🎯 Instruções
 
@@ -9,8 +9,9 @@ O projeto foi construido para fins de desenvolvimento e teste.
 
 ### 📋 Pré-requisitos
 
-Para o desenvolvimento do projeto, foram instaladas algumas bibliotecas: 
+Para facilitar veja o arquivo Requeriments.txt pra mais informações sobre as bibliotecas inecessárias. 
 
+bibliotecas: 
 ```
 pandas
 numpy
